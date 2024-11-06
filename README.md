@@ -75,5 +75,5 @@ echo Backup and deletion completed successfully!
 ![image](https://github.com/user-attachments/assets/50e4ff0e-115a-4d0d-bf2d-bc6a853b1136)
 
 # RESULT:
-The commands/batch files are executed successfully.
+The commands/batch files are executed successfully..
 
